@@ -10,7 +10,7 @@ public class BasketPageSteps {
 	@And("add product from the product list")
 	public void add_cart() {
 
-		basket.addProduct();
+		basket.addProduct();  // products added to basket
 	}
 
 	@And("validate the cart add number")
