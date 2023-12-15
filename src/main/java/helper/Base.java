@@ -85,6 +85,7 @@ public class Base {
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
 
 	}
+	
 
 	public void selectDropDown(WebElement ele, String value, String type) {
 
