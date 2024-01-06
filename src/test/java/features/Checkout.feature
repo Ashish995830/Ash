@@ -1,6 +1,6 @@
 Feature: Verify checkout details
 
-  @Reg
+  @Rek1
   Scenario Outline: Verify checkout details with one section empty
     When user enter username "standard_user" and password "secret_sauce"
     And user click on login button

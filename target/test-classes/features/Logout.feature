@@ -1,6 +1,6 @@
 Feature: Logout functionality of swag labs
 
-  @Reg
+  @Rek
   Scenario: verify the logout functionality is working
   When user enter username "standard_user" and password "secret_sauce"
   And user click on login button

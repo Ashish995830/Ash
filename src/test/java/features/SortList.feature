@@ -1,6 +1,6 @@
 Feature: Add to cart in swag labs
 
-  @Reg
+  @Rek
   Scenario: Add everything to the cart
     When user enter username "standard_user" and password "secret_sauce"
     And user click on login button
